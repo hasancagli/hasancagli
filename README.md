@@ -5,10 +5,15 @@ I'm developing software projects and consulting to companies & individuals about
 ### Experienced with
 
 📓 Python, Java
+
 💻 HTML, CSS, Javascript, NodeJS
+
 📱 Kotlin and React Native
+
 ☁️ Google, IBM and Amazon Cloud Services
+
 🤖 Machine Learning, Big Data, Artificial Intelligence
+
 📙 SQL and NoSQL
 
 <!--
