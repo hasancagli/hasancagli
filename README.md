@@ -1,10 +1,17 @@
-### Hi there 👋
+## Hi, I'm Hasan Cagli 👋
+
+I'm developing software projects and consulting to companies & individuals about software development. Until today, I developed so many projects, websites and mobile applications.
+
+### Experienced with
+
+📓 Python, Java
+💻 HTML, CSS, Javascript, NodeJS
+📱 Kotlin and React Native
+☁️ Google, IBM and Amazon Cloud Services
+🤖 Machine Learning, Big Data, Artificial Intelligence
+📙 SQL and NoSQL
 
 <!--
-**hasancagli/hasancagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
