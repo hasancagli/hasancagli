@@ -4,17 +4,17 @@ I'm developing software projects and consulting to companies & individuals about
 
 ### Experienced with
 
-📓 Python, Java
+📓 Python - Java
 
-💻 HTML, CSS, Javascript, NodeJS
+💻 HTML - CSS - Javascript - NodeJS
 
-📱 Kotlin and React Native
+📱 Kotlin - React Native
 
-☁️ Google, IBM and Amazon Cloud Services
+☁️ Google - IBM and Amazon Cloud Services
 
-🤖 Machine Learning, Big Data, Artificial Intelligence
+🤖 Machine Learning - Big Data - Artificial Intelligence
 
-📙 SQL and NoSQL
+📙 SQL - NoSQL Databases
 
 <!--
 - 🔭 I’m currently working on ...
