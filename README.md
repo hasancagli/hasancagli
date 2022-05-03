@@ -20,7 +20,7 @@ I'm developing software projects and consulting to companies & individuals about
 
 ▶️ Youtube: https://www.youtube.com/channel/UCcq4-SBMFSzAogiKMmVLlAQ
 
-👨‍💼 Linkedin: https://www.linkedin.com/in/hasan-%C3%A7a%C4%9Fl%C4%B1-b811001a7/
+👨‍💼 Linkedin: https://www.linkedin.com/in/hasan-cagli-b811001a7/
 
 ➤ Instagram: https://instagram.com/hasan_cagli5
 
