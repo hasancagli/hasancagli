@@ -8,7 +8,7 @@ I'm developing software projects and consulting to companies & individuals about
 
 💻 HTML - CSS - Javascript - NodeJS
 
-📱 Kotlin - React Native
+📱 Flutter - Kotlin
 
 ☁️ Google - IBM and Amazon Cloud Services
 
