@@ -4,18 +4,19 @@ I'm developing software projects and consulting to companies & individuals about
 
 ### Experienced with
 
-📓 Python - Java
+📓 Python, Java, Javascript
 
-💻 HTML - CSS - Javascript - NodeJS
+💻 NodeJS, React
 
-📱 Flutter - Kotlin
+📱 Flutter
 
-☁️ Google - IBM and Amazon Cloud Services
+☁️ Google, IBM and Amazon Cloud Services
 
-🤖 Machine Learning - Big Data - Artificial Intelligence
+🤖 Big Data - AI/ML Applications
 
-📙 SQL - NoSQL Databases
+📙 MySQL, PostgreSQL, MongoDB
 
+<!--
 ### Links
 
 ▶️ Youtube: https://www.youtube.com/channel/UCcq4-SBMFSzAogiKMmVLlAQ
@@ -24,7 +25,6 @@ I'm developing software projects and consulting to companies & individuals about
 
 ➤ Instagram: https://instagram.com/hasan_cagli5
 
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
