@@ -1,6 +1,7 @@
 ## Hi, I'm Hasan Cagli 👋
 
-[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasancagli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img style='margin: 0 auto' src='
+https://github-readme-stats.vercel.app/api?username=hasancagli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true' />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancagli&layout=compact&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
