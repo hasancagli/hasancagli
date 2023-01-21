@@ -2,6 +2,8 @@
 
 I'm developing software projects and consulting to companies & individuals about software development.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasancagli)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Experienced with
 
 📓 Python, Java, Javascript
